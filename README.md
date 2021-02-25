@@ -3,6 +3,8 @@
 
 ![Alt Text](https://github.com/sandipsavani/TeslaCar/blob/master/assets/images/tesla-clone.gif)
 
+You can try out the project [here](https://expo.io/@sandip045/projects/TeslaCar).
+
 A clone of the tesla website, built with React-Native Components.
 
 ## Concepts learnt
