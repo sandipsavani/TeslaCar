@@ -10,6 +10,9 @@ const CarLists = () => {
       <FlatList
         data={cars}
         renderItem={({ item }) => <CarItem car={item} />}
+        key={(item) => {
+          item.key;
+        }}
         snapToAlignment={"start"}
         showsVerticalScrollIndicator={false}
         decelerationRate={"fast"}

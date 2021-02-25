@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "TeslaCar",
+    "name": "React Native Component App Demo",
     "slug": "TeslaCar",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Tesla Clon ",
+    "githubUrl": "https://github.com/sandipsavani/TeslaCar"
   }
 }
